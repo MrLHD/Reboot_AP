@@ -1,0 +1,4 @@
+http://chromedriver.storage.googleapis.com/index.html
+
+下载最新的谷歌浏览器，用翻墙软件进行升级。
+下载最新的chromdrver，注意版本（一定是最近时间的，2.9版本不是最新的版本，当前使用的是2017年7月的2.31版本，注意后面的日期）

@@ -1,0 +1,1 @@
+python  C:\Users\administrator.BJ\Desktop\reboot_serverv2.0\reboot_spider.py

@@ -1,0 +1,8 @@
+1、脚本的文件夹（不能更改文件夹名字）必须放到桌面
+2、安装python3.5.2版本
+3、添加python和google浏览器的安装路劲到环境变量（两个程序的执行文件路径）
+4、升级pip，python -m pip install -U pip
+5、安装selenium，pip3 install selenium
+6、添加任务计划，注意“添加参数（可选）(A)”的地方写入脚本的绝对路径，包括脚本的全名和扩展名
+7、reboot_spider2.0这个文件夹因为在脚本中写的是绝对路径，所以需要更改文件夹名字时候在reboot_spider.py文件中吧3处对应的路径都该正确（python在windows下的时候每层目录是用\\隔开的）
+8、注意任务计划里面的脚本路径
